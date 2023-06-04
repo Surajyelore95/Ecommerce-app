@@ -1,7 +1,7 @@
 # Ecommerce React
  
 Skill test of React Module of Coding Ninjas
-for live view ======>   https://surajyelore95.github.io/Bootstrap_ContactList/
+for live view ======>   https://surajyelore95.github.io/Ecommerce-app/
 
 ## Cloning and Running the Application in local
 
